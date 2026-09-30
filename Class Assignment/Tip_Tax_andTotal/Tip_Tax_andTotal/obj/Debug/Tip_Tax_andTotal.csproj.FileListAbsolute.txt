@@ -1,0 +1,11 @@
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\bin\Debug\Tip_Tax_andTotal.exe.config
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\bin\Debug\Tip_Tax_andTotal.exe
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\bin\Debug\Tip_Tax_andTotal.pdb
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.csproj.AssemblyReference.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.Properties.Resources.resources
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.csproj.GenerateResource.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.csproj.CoreCompileInputs.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.exe
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.pdb
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.exe.config
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Tip_Tax_andTotal\Tip_Tax_andTotal\obj\Debug\Tip_Tax_andTotal.taxtfood1.resources
