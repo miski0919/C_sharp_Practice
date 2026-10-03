@@ -1,0 +1,11 @@
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe.config
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.AssemblyReference.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.GenerateResource.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.CoreCompileInputs.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.pdb
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe.config

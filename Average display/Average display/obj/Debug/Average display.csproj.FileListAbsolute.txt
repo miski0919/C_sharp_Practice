@@ -1,0 +1,10 @@
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\bin\Debug\Average display.exe.config
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\bin\Debug\Average display.exe
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\bin\Debug\Average display.pdb
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\obj\Debug\Average display.csproj.AssemblyReference.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\obj\Debug\Average_display.Form1.resources
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\obj\Debug\Average_display.Properties.Resources.resources
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\obj\Debug\Average display.csproj.GenerateResource.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\obj\Debug\Average display.csproj.CoreCompileInputs.cache
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\obj\Debug\Average display.exe
+C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Average display\Average display\obj\Debug\Average display.pdb
