@@ -33,9 +33,9 @@
             this.clearButton = new System.Windows.Forms.Button();
             this.exitButton = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.inputTextBox = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.inputTextBox = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -94,6 +94,13 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Range Checker Application";
             // 
+            // inputTextBox
+            // 
+            this.inputTextBox.Location = new System.Drawing.Point(186, 82);
+            this.inputTextBox.Name = "inputTextBox";
+            this.inputTextBox.Size = new System.Drawing.Size(206, 30);
+            this.inputTextBox.TabIndex = 6;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -112,13 +119,6 @@
             this.label3.TabIndex = 0;
             this.label3.Text = "Enter an integar in the range of 1 throught 10";
             // 
-            // inputTextBox
-            // 
-            this.inputTextBox.Location = new System.Drawing.Point(186, 82);
-            this.inputTextBox.Name = "inputTextBox";
-            this.inputTextBox.Size = new System.Drawing.Size(206, 30);
-            this.inputTextBox.TabIndex = 6;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -127,6 +127,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

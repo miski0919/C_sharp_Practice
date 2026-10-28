@@ -43,12 +43,17 @@ namespace Range_Checker
             // Clear Button Code
             inputTextBox.Text = "";
             outputLabel.Text = "";
-        }
+        9
 
         private void exitButton_Click(object sender, EventArgs e)
         {
             // Exit Button Code
             this.Close();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

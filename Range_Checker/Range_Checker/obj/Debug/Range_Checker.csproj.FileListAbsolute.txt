@@ -9,3 +9,14 @@ C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sha
 C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.exe
 C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.pdb
 C:\Users\Caawiye Pro\OneDrive\Документи\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.exe.config
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\bin\Debug\Range_Checker.exe.config
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\bin\Debug\Range_Checker.exe
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\bin\Debug\Range_Checker.pdb
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.AssemblyReference.cache
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.exe.config
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.Form1.resources
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.Properties.Resources.resources
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.GenerateResource.cache
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.CoreCompileInputs.cache
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.exe
+D:\C#\First_Example_of_CA242\C_sharp_Practice\Range_Checker\Range_Checker\obj\Debug\Range_Checker.pdb

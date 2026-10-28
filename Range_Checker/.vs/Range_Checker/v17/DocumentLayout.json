@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\Range_Checker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\Range_Checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|solutionrelative:range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\Range_Checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|solutionrelative:range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|d:\\c#\\first_example_of_ca242\\c_sharp_practice\\range_checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|solutionrelative:range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|d:\\c#\\first_example_of_ca242\\c_sharp_practice\\range_checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4DCF8-5516-4B66-9EA3-8F95AAAD4004}|Range_Checker\\Range_Checker.csproj|solutionrelative:range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\Range_Checker\\Range_Checker\\Form1.cs",
               "RelativeDocumentMoniker": "Range_Checker\\Form1.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\Range_Checker\\Range_Checker\\Form1.cs",
               "RelativeDocumentMoniker": "Range_Checker\\Form1.cs",
