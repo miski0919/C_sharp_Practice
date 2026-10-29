@@ -1,0 +1,4 @@
+Kani waa casharkii koowaad ee C#
+Hanan waa gabar fiican oo caqli badan
+Waan bartay habka loo isticmaalo StreamReader
+Barashada programming-ka waa mid xiiso badan
