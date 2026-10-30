@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndingBalance", "EndingBalance\EndingBalance.csproj", "{4DA1B1FF-29B4-4370-B79B-337F074D3463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA1B1FF-29B4-4370-B79B-337F074D3463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA1B1FF-29B4-4370-B79B-337F074D3463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA1B1FF-29B4-4370-B79B-337F074D3463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA1B1FF-29B4-4370-B79B-337F074D3463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F63DD7-378C-47CF-A4E3-E66B33FCE8E1}
+	EndGlobalSection
+EndGlobal

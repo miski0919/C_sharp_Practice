@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\WEEK 4\\EndingBalance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA1B1FF-29B4-4370-B79B-337F074D3463}|EndingBalance\\EndingBalance.csproj|d:\\c#\\first_example_of_ca242\\c_sharp_practice\\week 4\\endingbalance\\endingbalance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA1B1FF-29B4-4370-B79B-337F074D3463}|EndingBalance\\EndingBalance.csproj|solutionrelative:endingbalance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA1B1FF-29B4-4370-B79B-337F074D3463}|EndingBalance\\EndingBalance.csproj|D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\WEEK 4\\EndingBalance\\endingbalance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DA1B1FF-29B4-4370-B79B-337F074D3463}|EndingBalance\\EndingBalance.csproj|solutionrelative:endingbalance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\WEEK 4\\EndingBalance\\EndingBalance\\Form1.cs",
+              "RelativeDocumentMoniker": "EndingBalance\\Form1.cs",
+              "ToolTip": "D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\WEEK 4\\EndingBalance\\EndingBalance\\Form1.cs",
+              "RelativeToolTip": "EndingBalance\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T19:44:11.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\First_Example_of_CA242\\C_sharp_Practice\\WEEK 4\\EndingBalance\\EndingBalance\\Form1.cs",
+              "RelativeDocumentMoniker": "EndingBalance\\Form1.cs",
+              "ToolTip": "D:\\C#\\First_Example_CA242\\EndingBalance\\EndingBalance\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\First_Example_CA242\\EndingBalance\\EndingBalance\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T19:34:53.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

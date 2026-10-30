@@ -1,0 +1,10 @@
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\bin\Debug\EndingBalance.exe.config
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\bin\Debug\EndingBalance.exe
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\bin\Debug\EndingBalance.pdb
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.AssemblyReference.cache
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Form1.resources
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Properties.Resources.resources
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.GenerateResource.cache
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.CoreCompileInputs.cache
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\obj\Debug\EndingBalance.exe
+D:\C#\First_Example_CA242\EndingBalance\EndingBalance\obj\Debug\EndingBalance.pdb

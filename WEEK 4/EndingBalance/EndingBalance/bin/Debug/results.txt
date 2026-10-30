@@ -1,0 +1,3 @@
+Month 1 balance: $11.06
+Month 2 balance: $11.11
+Month 3 balance: $11.17
