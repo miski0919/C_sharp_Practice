@@ -1,0 +1,11 @@
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\bin\Debug\HomeAssignment.exe.config
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\bin\Debug\HomeAssignment.exe
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\bin\Debug\HomeAssignment.pdb
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.csproj.AssemblyReference.cache
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.Form1.resources
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.Properties.Resources.resources
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.csproj.GenerateResource.cache
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.csproj.CoreCompileInputs.cache
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.exe
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.pdb
+D:\C#\First_Example_CA242\HomeAssignment\HomeAssignment\obj\Debug\HomeAssignment.exe.config
