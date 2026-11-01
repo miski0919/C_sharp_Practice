@@ -1,0 +1,163 @@
+📁 C# Chapter 4 (Part 2): Files, Dialogs, Random Numbers & Form Events
+
+Comprehensive documentation for Part 2 of Chapter 5 covering text file I/O (StreamWriter/StreamReader), Windows Dialog Controls (OpenFileDialog/SaveFileDialog), Random number generation, and Form Load events.
+
+📑 Table of Contents
+
+5.5 Text File Data Storage
+
+5.6 File Dialog Controls
+
+5.7 Random Numbers (Random Class)
+
+5.8 The Form Load Event
+
+5.5 Text File Data Storage
+
+🎯 Key Concepts
+
+Working with files always requires 3 essential steps:
+
+Open the file (Establishes connection).
+
+Process the file (Read or Write data).
+
+Close the file (Disconnects program from file).
+
+✍️ Writing Data (StreamWriter)
+
+File.CreateText("filename.txt"): Creates a new file or overwrites an existing one.
+
+File.AppendText("filename.txt"): Appends new text to an existing file without deleting existing contents.
+
+Use @ for literal paths: File.AppendText(@"C:\Data\Names.txt").
+
+StreamWriter outputFile = File.CreateText("courses.txt");
+outputFile.WriteLine("Introduction to Computer Science"); // Writes text + newline
+outputFile.Write("C# Programming");                       // Writes text without newline
+outputFile.Close();                                        // ALWAYS close files!
+
+
+📖 Reading Data (StreamReader)
+
+File.OpenText("filename.txt"): Opens an existing file for reading.
+
+inputFile.EndOfStream: Boolean property indicating if the end of the file is reached.
+
+try
+{
+    StreamReader reader = File.OpenText("courses.txt");
+
+    while (!reader.EndOfStream)
+    {
+        string line = reader.ReadLine();
+        listBox1.Items.Add(line);
+    }
+
+    reader.Close();
+}
+catch (Exception ex)
+{
+    MessageBox.Show("Error reading file: " + ex.Message);
+}
+
+
+5.6 File Dialog Controls
+
+🎯 Key Concepts
+
+Invisible controls added to the Component Tray providing standard Windows file picker interfaces:
+
+OpenFileDialog: Opens a file chooser dialog.
+
+SaveFileDialog: Opens a "Save As" file chooser dialog.
+
+ShowDialog(): Method that displays the dialog and returns a DialogResult (OK or Cancel).
+
+💻 Code Example
+
+// Reading a file selected via OpenFileDialog
+if (openFileDialog1.ShowDialog() == DialogResult.OK)
+{
+    StreamReader reader = File.OpenText(openFileDialog1.FileName);
+    listBox1.Items.Clear();
+
+    while (!reader.EndOfStream)
+    {
+        listBox1.Items.Add(reader.ReadLine());
+    }
+
+    reader.Close();
+}
+
+// Writing to a file selected via SaveFileDialog
+if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+{
+    StreamWriter writer = File.CreateText(saveFileDialog1.FileName);
+    writer.WriteLine("User output saved successfully.");
+    writer.Close();
+}
+
+
+5.7 Random Numbers (Random Class)
+
+🎯 Key Concepts
+
+The Random class generates pseudo-random numbers.
+
+Method
+
+Description
+
+Example
+
+.Next()
+
+Generates a random non-negative integer.
+
+rand.Next()
+
+.Next(max)
+
+Generates a random integer from 0 to max - 1.
+
+rand.Next(100) (0 to 99)
+
+.Next(min, max)
+
+Generates a random integer from min to max - 1.
+
+rand.Next(1, 7) (1 to 6)
+
+.NextDouble()
+
+Generates a random double between 0.0 and 1.0.
+
+rand.NextDouble()
+
+💻 Code Example
+
+Random rand = new Random();
+
+// Generate a random dice roll (1 to 6)
+int diceRoll = rand.Next(1, 7);
+
+// Generate a percentage (0.0 to 1.0)
+double percentage = rand.NextDouble();
+
+
+5.8 The Form Load Event
+
+🎯 Key Concepts
+
+Triggered automatically when a form is loaded into memory before being displayed on screen.
+
+Useful for initializing controls, loading saved settings, or filling ListBoxes.
+
+💻 Code Example
+
+private void Form1_Load(object sender, EventArgs e)
+{
+    // Executes automatically when application launches
+    MessageBox.Show("Welcome to the Application!");
+}
