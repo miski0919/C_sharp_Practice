@@ -1,1 +1,80 @@
- Key Features & Projects Covered1. Ending Balance CalculatorConcept: Loop Control Structures (while loop).   Description: Calculates compound interest or running account balance over a designated number of months.   Functionality:Takes the initial starting balance and total number of months as user inputs.   Runs a pretest while loop to compute monthly interest accumulation based on a fixed rate.   Displays each month's running balance step-by-step inside a ListBox and outputs the final calculated balance in a label control.   2. Random Number GeneratorConcept: The Random Class.   Description: Generates unpredictable integer values within a specified range upon request.   Functionality:Instantiates a .NET Random object in memory.   Invokes the Next() method (e.g., rand.Next(100)) to pick a random integer.   Presents the generated value to the user inside a pop-up MessageBox.   3. Read Text File OutputConcept: Stream Reading (StreamReader) and Loop Detection.   Description: Opens a local text file and populates its line-by-line contents into a UI component.   Functionality:Establishes a stream connection to a target text file using File.OpenText().   Uses a while (!reader.EndOfStream) loop to iterate through every line until reaching the end of the file.   Reads each line via ReadLine() and populates it directly into a ListBox.   Safely closes the file stream inside a try-catch block to handle exceptions.   4. Save File ApplicationConcept: Stream Writing (StreamWriter) and SaveFileDialog Control.   Description: Lets users choose a file path interactively to create and save text data.   Functionality:Triggers the system's native Windows "Save As" modal using saveFileDialog.ShowDialog().   Checks if the user clicked OK (DialogResult.OK) or Cancel.   Creates the file at the chosen path using File.CreateText() and writes data lines via StreamWriter.WriteLine().   Flushes and closes the stream after writing to ensure file integrity.   
+# Key Features & Projects Covered
+
+This repository contains four projects demonstrating fundamental programming concepts using C# and Windows Forms.
+
+## 1. Ending Balance Calculator
+
+**Concept:** Loop Control Structures (`while` loop)
+
+**Description:**  
+Calculates the ending account balance over a specified number of months using monthly interest accumulation.
+
+**Features:**
+- Accepts the initial balance and total number of months.
+- Uses a pretest `while` loop to calculate monthly interest.
+- Displays the running balance for each month in a `ListBox`.
+- Shows the final calculated balance in a label.
+
+## 2. Random Number Generator
+
+**Concept:** The `Random` Class
+
+**Description:**  
+Generates a random integer within a specified range using the C# `Random` class.
+
+**Features:**
+- Creates a `.NET Random` object.
+- Uses the `Next()` method to generate random numbers.
+- Displays the generated number in a `MessageBox`.
+
+## 3. Read Text File Output
+
+**Concept:** File Handling and Stream Reading (`StreamReader`)
+
+**Description:**  
+Reads a text file line by line and displays its contents in a `ListBox`.
+
+**Features:**
+- Opens a text file using `File.OpenText()`.
+- Uses a `while` loop with `EndOfStream` to read until the end of the file.
+- Reads individual lines using `ReadLine()`.
+- Uses `try-catch` to handle file-reading errors and ensures the file is closed safely.
+
+## 4. Save File Application
+
+**Concept:** File Handling and Stream Writing (`StreamWriter`)
+
+**Description:**  
+Allows users to select a destination and save text data to a file using the Windows Save File Dialog.
+
+**Features:**
+- Opens the Save As dialog using `SaveFileDialog`.
+- Handles the user's OK and Cancel actions.
+- Creates a text file using `File.CreateText()`.
+- Writes data using `StreamWriter.WriteLine()`.
+- Closes the file stream after writing.
+
+## Technologies Used
+
+- C#
+- .NET Framework / .NET
+- Windows Forms
+- Visual Studio
+- File Handling
+- Loop Control Structures
+
+## Learning Objectives
+
+These projects demonstrate practical applications of:
+
+- `while` loops
+- Random number generation
+- Reading text files
+- Writing and saving files
+- Exception handling
+- Windows Forms controls and dialog boxes
+
+
+## Conclusion
+
+These projects provide hands-on experience with C# programming fundamentals, Windows Forms applications, and file input/output operations.
