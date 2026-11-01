@@ -1,4 +1,4 @@
-# 📘 Visual C# - Chapter 4: Making Decisions
+# 📘 Visual C# - Chapter 3: Making Decisions
 
 Guide and comprehensive documentation for **Chapter 4: Making Decisions** from *Starting Out with Visual C# (6th Edition)* by Tony Gaddis.
 
